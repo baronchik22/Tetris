@@ -1,4 +1,4 @@
-Наша игра - это класический Тетрис 
+Наша игра - это классический Тетрис 
 
 ![image](https://github.com/user-attachments/assets/1d05890e-3f26-40c6-aa2f-3bc65b7a3720)
 
