@@ -61,6 +61,7 @@
 Установка:
 
 *  Клонируйте репрозиторий:
+`https://github.com/baronchik22/Tetris.git`
 
 *  Откройте проект в Visual Studio Code.
 
